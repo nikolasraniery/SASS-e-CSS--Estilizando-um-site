@@ -32,6 +32,10 @@ header {
           variaveis.$cor-primaria
         );
         font-weight: 500;
+        &:hover {
+          scale: 110%;
+          font-weight: 600;
+        }
       }
     }
   }
@@ -76,6 +80,11 @@ header {
       );
       background: variaveis.$cor-secundaria;
       font-weight: 600;
+
+      &:hover {
+        background: variaveis.$cor-terciaria;
+        cursor: pointer;
+      }
     }
   }
 }
