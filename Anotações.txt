@@ -1,0 +1,16 @@
+Você já deve ter ouvido falar em pré-processadores CSS, mas você sabe o que eles são e como funcionam, como surgiram e quais os principais benefícios que eles oferecem?
+
+Os pré-processadores CSS são ferramentas que permitem construir CSS de forma mais expressiva e potente. Eles são usados para adicionar funcionalidades extras ao CSS, como variáveis, funções, mixins e aninhamento.
+
+Eles surgiram em meados dos anos 2000, como uma forma de melhorar a produtividade e a legibilidade do código CSS. O primeiro pré-processador CSS foi o SASS, que foi lançado em 2006. O Less foi lançado em 2007, e o Stylus foi lançado em 2009. Estes três são os principais pré-processadores CSS do mercado e cada um tem suas próprias vantagens e desvantagens, mas existem outros menores também. Todos eles fazem coisas similares, com algumas particularidades e uma sintaxe própria.
+
+Dentre eles o mais usado é o SASS, que significa Syntactically Awesome Style Sheets, ou na tradução literal seria Folha de Estilo Sintaticamente Impressionante, é uma extensão do VS Code que traz recursos adicionais ao CSS atuando como um pré-processador que compila tudo escrito em SASS e cria arquivos CSS.
+
+O SASS foi criado por Hampton Catlin, mas só permaneceu como membro ativo do Core Team do SASS até 2009 e não está mais desenvolvendo SASS ativamente. Atualmente, Natalie Weizenbaum é a designer e desenvolvedora líder da equipe.
+
+Os pré-processadores CSS como SASS oferecem vários benefícios, incluindo:
+
+Produtividade: ajudam você a escrever código CSS de forma mais rápida e eficiente.
+Legibilidade: tornam o código CSS mais legível e fácil de manter.
+Reusabilidade: permitem que você reutilize código CSS em diferentes partes do seu projeto.
+Extensibilidade: permitem também que você estenda as funcionalidades do CSS com suas próprias funções e mixins.

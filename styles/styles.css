@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: linear-gradient(180deg, #e8f5c8 0%, #ffffff 96.87%);
+  padding: 2rem;
+}
+header nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.6rem;
+}
+header nav .linha {
+  border: 1px solid black;
+  width: 80%;
+}
+header nav ul {
+  display: inline-flex;
+  gap: 2rem;
+}
+header nav ul li {
+  list-style-type: none;
+}
+header nav ul a {
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  color: #0c0421;
+  font-weight: 500;
+}
+header #home {
+  max-width: 1040px;
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header #home .textos-home {
+  max-width: 464px;
+}
+header #home .textos-home h1 {
+  font-family: "Krona One", sans-serif;
+  font-size: 42px;
+  color: #0c0421;
+  margin-bottom: 2rem;
+}
+header #home .textos-home h1 span {
+  color: #4e75ff;
+}
+header #home .img-home {
+  max-width: 474px;
+}
+header #home .img-home img {
+  width: 100%;
+}
+header #home .btn-main {
+  border: none;
+  border-radius: 40px;
+  padding: 24px 60px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  color: #e8f5c8;
+  background: #4e75ff;
+  font-weight: 600;
+}
+
+#nosso-espaco {
+  margin: 0 auto;
+  width: 80%;
+}/*# sourceMappingURL=styles.css.map */
